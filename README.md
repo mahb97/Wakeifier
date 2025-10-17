@@ -12,6 +12,7 @@ Wakeywhat
 -------------------------------------------------------------------
 
 Manifesto: 
+
 tinyllamas on the mound
 
 code needs to stream of consciousness
