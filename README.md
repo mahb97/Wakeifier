@@ -1,4 +1,6 @@
-# Wakeifier — Plain-to-Joyce style transfer on *Finnegans Wake*
+# Wakeifier 
+
+# Plain-to-Joyce style transfer on *Finnegans Wake*
 
 > turn a normal sentence into something a little more Wake-ish: reproducibly, inspectably, and without hype.
 
